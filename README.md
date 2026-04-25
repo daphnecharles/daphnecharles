@@ -9,7 +9,7 @@ AI safety research and the governance of frontier AI systems.
 ## What I'm working on
 
 - 🔬 Studying AI safety, mechanistic interpretability, and AI governance
-- 🤖 Co-Founder & CTO at [Sparx Labs](https://sparxlabs.co) — building 
+- 🤖 Co-Founder & CTO at [Sparx Labs](https://sparxlabs.io) — building 
   custom LLM tools for mid-market businesses
 - 🤝 Building community, hosting and speaking at tech events
 
