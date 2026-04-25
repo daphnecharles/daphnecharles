@@ -16,5 +16,5 @@ AI safety research and the governance of frontier AI systems.
   ## Links
 
 🌐 [daphnecharles.tech](https://daphnecharles.tech) · 
-💼 [LinkedIn](https://linkedin.com/in/daphneacharles) · 
+💼 [LinkedIn](https://linkedin.com/in/daphnecharles) · 
 ✉️ daphneacharles@gmail.com
