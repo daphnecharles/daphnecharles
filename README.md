@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋🏾 Hi there, I'm Daphne Charles.
 
-<!--
-**daphnecharles/daphnecharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer & AI Systems Builder based in New York City.
 
-Here are some ideas to get you started:
+I build production AI systems and high-traffic platforms, from multi-agent 
+pipelines to enterprise products at Fortune 500 scale. I've worked at Salesforce, American Express, and BMW. Currently focused on 
+AI safety research and the governance of frontier AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- 🔬 Studying AI safety, mechanistic interpretability, and AI governance
+- 🤖 Co-Founder & CTO at [Sparx Labs](https://sparxlabs.co) — building 
+  custom LLM tools for mid-market businesses
+- 🤝 Building community, hosting and speaking at tech events
+
+  ## Links
+
+🌐 [daphnecharles.tech](https://daphnecharles.tech) · 
+💼 [LinkedIn](https://linkedin.com/in/daphneacharles) · 
+✉️ daphneacharles@gmail.com
